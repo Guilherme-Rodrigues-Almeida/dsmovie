@@ -9,7 +9,8 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: #FFFFFF;
+    color: #fff;
+    text-decoration: none;
 }
 
 .dsmovie-nav-content h1 {
@@ -26,4 +27,9 @@ header {
 .dsmovie-contact-link {
     margin: 0 0 0 10px;
     font-size: 12px;
+}
+
+.dsmovie-nav-content a {
+    color: #fff;
+    text-decoration: none;
 }
